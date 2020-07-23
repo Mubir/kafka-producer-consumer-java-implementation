@@ -28,10 +28,10 @@ import org.slf4j.LoggerFactory;
 
 public class TwitterApp {
     Logger logger = LoggerFactory.getLogger(TwitterApp.class.getName());
-    String consumerKey = "YOMJ8pzDq7kF6AY5RXDvhhWPl";
-    String consumerSecret = "OdGciIFv0A4US8zhHAsZpNghmh9bF2b9aaK9bO23pqpCvPwny2";
-    String token = "753132666980098048-PyfsiEqaIIvASoTx5h6GuVyknNdKhyf";
-    String secret = "H8NNs5HTOv9APfA8DEj4NdkldRRRbZISvpnPxDv0eMeOr";
+    String consumerKey = "XXXXX";
+    String consumerSecret = "XXX";
+    String token = "XX-X";
+    String secret = "XXX";
 
     public TwitterApp() {
 
